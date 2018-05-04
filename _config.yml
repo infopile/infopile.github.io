@@ -20,7 +20,7 @@ title                    : "Nesvilab"
 title_separator          : "-"
 name                     : "Alexey Nesvizhskii Proteomics Lab"
 description              : "Moving proteomics one spectrum at a time."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -276,3 +276,16 @@ defaults:
       comments: # true
       share: true
       related: true
+  
+  # _software
+  - scope:
+      path: ""
+      type: software
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "docs"
