@@ -3,15 +3,13 @@ main:
   - title: "Software"
     url: /software/msfragger/
     description: "In-house developed tools"
+  - title: "Open Positions"
+    url: /open-positions/
   - title: "People"
     url: /people/
     description: "Lab members"
+  - title: "News"
+    url: /year-archive/
   - title: "About"
     url: /about
     description: "Info about the lab"
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
