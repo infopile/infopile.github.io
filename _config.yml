@@ -11,21 +11,21 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes@4.11.2"
+remote_theme             : "mmistakes/minimal-mistakes@4.11.2"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Nesvilab"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Alexey Nesvizhskii Proteomics Lab"
+description              : "Moving proteomics one spectrum at a time."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 150
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
@@ -98,11 +98,20 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Alexey Nesvizhskii"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "<b>Director</b><br>
+                      Proteomics Resource Facility<br>
+                      <b>Professor</b><br>
+                      <a href='http://www.pathology.med.umich.edu/'>Pathology</a><br>
+                      <a href='http://www.ccmb.med.umich.edu/'>Computational Medicine & Bioinformatics</a>"
+  location         : "University of Michigan<br>
+                      Medical School<br>
+                      Department of Pathology<br>
+                      4237 Medical Science I<br>
+                      1301 Catherine<br>
+                      Ann Arbor, MI 48109"
+  email            : "nesvi@umich.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -111,7 +120,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "nesvilab"
   gitlab           :
   google_plus      :
   keybase          :
