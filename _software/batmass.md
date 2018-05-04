@@ -1,10 +1,17 @@
 ---
 title: "Batmass"
-author: multiple
+author: dmitriya
 permalink: /software/batmass/
 excerpt: "LC/MS data visualisation platform."
 date: 2017-03-20 10:00:00
 toc: true
+
+sidebar:
+  - image: /assets/images/batmass_splash_transparent.png
+    image_alt: "BatMass logo"
+  - title: "Download"
+    text: "<a href='http://batmass.org'>batmass.org</a>"
+
 ---
 
 BatMass is a mass spectrometry data visualization tool. It was created to provide an extensible platform, providing basic functionality, like project management, raw mass-spectrometry data access, various GUI widgets and extension points.

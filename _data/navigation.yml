@@ -13,3 +13,11 @@ main:
   - title: "About"
     url: /about
     description: "Info about the lab"
+
+software:
+  - title: Software
+    children:
+      - title: "MSFragger"
+        url: /software/msfragger/
+      - title: "BatMass"
+        url: /software/batmass/

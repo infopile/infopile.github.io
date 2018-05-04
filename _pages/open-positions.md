@@ -5,6 +5,7 @@ permalink: /open-positions/
 collection: open-positions
 entries_layout: list
 classes: wide
+author_profile: true
 ---
 
 The lab is always looking for prospective members even if there are no specific

@@ -300,7 +300,7 @@ defaults:
       share: true
       comments: true
       sidebar:
-        nav: "docs"
+        nav: "software"
   # _open-positions
   - scope:
       path: ""
@@ -311,8 +311,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-      sidebar:
-        nav: "docs"
   # _open-positions
   - scope:
       path: ""
@@ -323,5 +321,3 @@ defaults:
       author_profile: false
       share: false
       comments: false
-      sidebar:
-        nav: "docs"
