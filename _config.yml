@@ -99,7 +99,7 @@ analytics:
 # Site Author
 author:
   name             : "Alexey Nesvizhskii"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Nesvizhskii_Alexey-02.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "<b>Director</b><br>
                       Proteomics Resource Facility<br>
                       <b>Professor</b><br>
