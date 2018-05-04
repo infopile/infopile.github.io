@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Software"
-    url: /software/msfragger/
+    url: /software/
     description: "In-house developed tools"
   - title: "Open Positions"
     url: /open-positions/

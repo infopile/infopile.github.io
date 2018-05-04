@@ -3,7 +3,7 @@ title: "MSFragger"
 author: andykong
 permalink: /software/msfragger/
 excerpt: "Ultra-fast proteomics search engine."
-last_modified_at: 2018-03-20T15:58:49-04:00
+date: 2018-03-20 10:00:00
 toc: true
 ---
 MSFragger is an ultrafast database search tool that uses a fragment ion indexing

@@ -2,8 +2,8 @@
 title: "Batmass"
 author: multiple
 permalink: /software/batmass/
-excerpt: "LC/MS data visualisation platform"
-last_modified_at: 2017-03-20T15:58:49-04:00
+excerpt: "LC/MS data visualisation platform."
+date: 2017-03-20 10:00:00
 toc: true
 ---
 

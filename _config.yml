@@ -269,6 +269,12 @@ collections:
   software:
     output: true
     permalink: /:collection/:path/
+  open-positions:
+    output: true
+    permalink: /:collection/:path/
+  people:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -293,5 +299,29 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      sidebar:
+        nav: "docs"
+  # _open-positions
+  - scope:
+      path: ""
+      type: open-positions
+    values:
+      layout: single
+      read_time: false
+      author_profile: true
+      share: true
+      comments: true
+      sidebar:
+        nav: "docs"
+  # _open-positions
+  - scope:
+      path: ""
+      type: people
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
       sidebar:
         nav: "docs"
