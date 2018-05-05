@@ -31,6 +31,10 @@ proteomics, systems biology, and related areas.
 
 {% include gallery id="michigan_gallery" caption="University of michigan campus in Ann Arbor." %}
 
+## Publications
+
+[Google Scholar](https://scholar.google.com/citations?user=hXPgfmwAAAAJ&hl=en)
+
 ## Graduate Students
 
 Students can join the lab through the graduate program in Bioinformatics or

@@ -2,10 +2,6 @@ nesvi:
   name: "Alexey Nesvizhskii"
   email: "nesvi@med.umich.edu"
 
-multiple:
-  name: "The team"
-  email: "nesvi@med.umich.edu"
-
 dmitriya:
   name: "Dmitry Avtonomov"
   github: "chhh"

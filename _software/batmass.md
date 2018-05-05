@@ -29,6 +29,9 @@ provide an extensible platform, providing basic functionality, like project
 management, raw mass-spectrometry data access, various GUI widgets and extension
 points.
 
+{% assign prog = site.data.software.batmass %}
+Current version: {{ prog.version }}
+
 {% include gallery caption="Sample screenshots from BatMass." %}
 
 ## Download
