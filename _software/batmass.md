@@ -12,9 +12,24 @@ sidebar:
   - title: "Download"
     text: "<a href='http://batmass.org'>batmass.org</a>"
 
+gallery:
+  - url: /assets/images/batmass-free-layout.png
+    image_path: assets/images/batmass-free-layout.png
+    alt: "Free viewer layout"
+  - url: /assets/images/batmass-comparison-6-runs-1-blank.png
+    image_path: assets/images/batmass-comparison-6-runs-1-blank.png
+    alt: "Compare against controls"
+  - url: /assets/images/batmass-comparison-6-runs-1-blank-02-zoom-marked.png
+    image_path: assets/images/batmass-comparison-6-runs-1-blank-02-zoom-marked.png
+    alt: "Compare multiple experiments with synchronized viewers"
 ---
 
-BatMass is a mass spectrometry data visualization tool. It was created to provide an extensible platform, providing basic functionality, like project management, raw mass-spectrometry data access, various GUI widgets and extension points.
+BatMass is a mass spectrometry data visualization tool. It was created to
+provide an extensible platform, providing basic functionality, like project
+management, raw mass-spectrometry data access, various GUI widgets and extension
+points.
+
+{% include gallery caption="Sample screenshots from BatMass." %}
 
 ## Download
 
@@ -22,4 +37,7 @@ BatMass is a mass spectrometry data visualization tool. It was created to provid
 
 ## Key Publications
 
-Avtonomov DM, Raskind A, Nesvizhskii AI. "BatMass: a Java Software Platform for LC-MS Data Visualization in Proteomics and Metabolomics." J Proteome Res. 15:2500-9 (2016). [Manuscript](http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4256.html)
+Avtonomov DM, Raskind A, Nesvizhskii AI. "BatMass: a Java Software Platform for
+LC-MS Data Visualization in Proteomics and Metabolomics." J Proteome Res.
+15:2500-9 (2016).
+[Manuscript](http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4256.html)
