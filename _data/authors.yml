@@ -1,10 +1,12 @@
 nesvi:
   name: "Alexey Nesvizhskii"
   email: "nesvi@med.umich.edu"
+  scholar: "hXPgfmwAAAAJ"
 
 dmitriya:
   name: "Dmitry Avtonomov"
   github: "chhh"
+  scholar: "UJL1jgQAAAAJ"
 
 andykong:
   name: "Andy Kong"
@@ -13,6 +15,7 @@ andykong:
 felipevl:
   name: "Felipe Leprevost"
   github: "prvst"
+  scholar: "iSLx0mgAAAAJ"
 
 tsouc:
   name: Chih-Chiang Tsou
