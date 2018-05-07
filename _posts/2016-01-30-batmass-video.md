@@ -6,6 +6,14 @@ categories:
 tags:
   - batmass
   - software
+  
+header:
+  video:
+    id: EY9wvd6ckb0
+    provider: youtube
+
+last_modified_at: 2018-05-07 01:14
+
 ---
 
 A five minute intro to BatMass.
