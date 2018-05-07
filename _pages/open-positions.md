@@ -1,7 +1,7 @@
 ---
-title: Open Positions
-layout: collection
 permalink: /open-positions/
+title: Open Positions
+layout: single
 collection: open-positions
 entries_layout: list
 classes: wide
